@@ -3,3 +3,4 @@
 hotfix
 moge
 paaa
+squash!
